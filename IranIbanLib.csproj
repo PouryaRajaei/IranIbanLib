@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework> <!-- یا netstandard2.0 -->
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>1.0.1</Version>
+    <Authors>Pourya Rajaei</Authors>
+    <Company>PB</Company>
+    <Description>پکیج تبدیل شبا به حساب و حساب به شبا</Description>
+    <PackageId>IranIbanUtility</PackageId>
+    <RepositoryUrl>https://github.com/your/repo</RepositoryUrl>
+    <Title>ir iban ایران شبا</Title>
+    <Copyright>کپی رایت پوریا رجائی</Copyright>
+  </PropertyGroup>
+
+</Project>
